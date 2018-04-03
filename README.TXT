@@ -1,0 +1,1 @@
+Challenges: Save project, 16x16 and 36 colors
